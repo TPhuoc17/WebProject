@@ -11,3 +11,5 @@ hoc GIT GUI
 noi dung hoc Git Gui
 
 sua file thu nhat
+
+chinh sua file thu nhat
