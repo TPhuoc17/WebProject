@@ -3,6 +3,10 @@ them noi dung file 1 cua may tinh 1
 
 them noi dung file 1 cua may tinh 2
 
+<<<<<<< HEAD
 noi dung hoc Git Gui
 
 hoc GIT GUI
+=======
+noi dung hoc Git Gui
+>>>>>>> 0afb6cd67aea0b476449e990dd4d15e18fe5f431
