@@ -3,3 +3,4 @@ them noi dung file 1 cua may tinh 1
 
 them noi dung file 1 cua may tinh 2
 
+noi dung hoc Git Gui
