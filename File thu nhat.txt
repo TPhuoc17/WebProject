@@ -13,3 +13,5 @@ noi dung hoc Git Gui
 sua file thu nhat
 
 chinh sua file thu nhat
+
+conflict file thu nhat nhanh main
